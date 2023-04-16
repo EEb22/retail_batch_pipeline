@@ -1,3 +1,3 @@
-# retail_simple_pipeline
+# retail_batch_pipeline
 
 ![](docs/imgs/dashboard.png)
